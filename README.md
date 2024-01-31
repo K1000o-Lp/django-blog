@@ -2,11 +2,11 @@
 
 ## Django
 
-`pip install Django`
+```pip install Django```
 
 ## Psycopg2
 
-`pip install psycopg2-binary`
+```pip install psycopg2-binary```
 
 # Configure Database:
 
@@ -26,6 +26,6 @@ DATABASES = {
 
 # Installation:
 
-1. execute command in shell or bash: `git clone https://github.com/K1000o-Lp/django-blog.git`
-2. execute command in app directory shell: `python manage.py makemigrations blog_app`
-3. execute command: `python manage.py runserver`
+1. execute command in shell or bash: ```git clone https://github.com/K1000o-Lp/django-blog.git```
+2. execute command in app directory shell: ```python manage.py makemigrations blog_app```
+3. execute command: ```python manage.py runserver```
